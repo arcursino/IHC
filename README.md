@@ -32,21 +32,18 @@ A proposta é utilizar o recurso da realidade aumentada no treinamento industria
 	Desenvolver uma solução de treinamento, mais dinâmico e interativo, capaz de manter claro a necessidade de utilização 	do stop drill ao furar uma chapa de metal, evitando o desperdício de material e retrabalho.
 	</li>
 </ul>
-<p>
-<a target="_blank" rel="noopener noreferrer" href="/arcursino/IHC/blob/master/animacao.gif"><img src="/arcursino/IHC/blob/master/animacao.gif" alt="" style="max-width:100%;"></a>
-</p>
 <ul>
 	<li> <strong>Como Utilizar: </strong>
 	</li>
 </ul>
-Primeiramente, fora Temer, fora Frank Underwood, será necessário possuir um dispositivo com WebCam, com conexão à Internet e então seguir os passo:
+Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão à Internet e então seguir os passo:
 <ol>
 	<li> tenha acesso ao marcadores da furadeira e do stopdrill(imprimir ou acessar de outro dispostivo). Basta clicar
 	<a href="https://github.com/arcursino/IHC/blob/master/pattern-%C3%ADndice.png"> aqui </a>
 	e
 	<a href="https://github.com/arcursino/IHC/blob/master/pattern-stopdrill.png"> aqui </a>
 	</li>
-	<li>Acesse: </li>
+	<li>Para ter acesso ao protótipo do projeto, acesse: </li>
 	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">Este Link</a>
 	<li> Posicione os dois marcadores em frente a câmera de seu dispositivo</li>
 </ol>
