@@ -43,7 +43,7 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 	<a href="https://github.com/arcursino/IHC/blob/master/pattern-stopdrill.png"> aqui </a>
 	</li>
 	<li>Para ter acesso ao protótipo do projeto, acesse: </li>
-	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">Este Link</a>
+	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">aqui</a>
 	<li> Posicione os dois marcadores em frente a câmera de seu dispositivo</li>
 </ol>
 <ul>
@@ -54,6 +54,7 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 	<li> Converter as imagens da furadeira e do stopdril para .gltf</li>
 	<li> Estudar a API WebGL(JavaScript)</li>
 </ol>
+<br>
 <ul> 
 	<li> <strong>Referências Bibliográficas </strong></li>
 	
