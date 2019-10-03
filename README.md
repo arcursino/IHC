@@ -13,17 +13,16 @@ A proposta é utilizar o recurso da realidade aumentada no treinamento industria
 	Muitos não se conscientizam sobre a necessida de utilizar as ferramentas necessárias para não haver retrabalho e/ou 	perda de materiais.
 	</li> 	
 </ul>
-<img src="https://raw.githubusercontent.com/arcursino/IHC/master/figura1.png" alt="Figura 1 - Uso do Stop Drill" title="Figura 1 - Uso do Stop Drill" style="max-width:100%;"><br>
-	<h3>Obs: A cada erro: 1500 reais só para abrir a documentação ou perda da peça.</h3> <br>
+<img src="https://raw.githubusercontent.com/arcursino/IHC/master/figura1.png" alt="Figura 1 - Uso do Stop Drill" title="Figura 1 - Uso do Stop Drill" style="max-width:100%;">
+	<h3>Obs: A cada erro, o prejuízo é de 1500 reais só para abrir a documentação ou perda da peça.</h3> <br>
 	
 <ul>		
 	<li> Solução:
 	Desenvolver uma solução de treinamento, mais dinâmico e interativo, capaz de manter claro a necessidade de utilização 	do stop drill ao furar uma chapa de metal, evitando o desperdício de material e retrabalho.
 	</li>
 </ul>
-	*[Animação 1](https://github.com/arcursino/IHC/blob/master/animacao.mp4)*
-	<br>
-	
+<img src="https://github.com/arcursino/IHC/blob/master/animacao.mp4" alt="Animação 1" title="Animação 1" style="max-width:100%;">
+		
 <br>
 Exemplo de passos iniciais com A-Frame:  <br>
 <br>
