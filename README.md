@@ -21,7 +21,7 @@ A proposta é utilizar o recurso da realidade aumentada no treinamento industria
 	Desenvolver uma solução de treinamento, mais dinâmico e interativo, capaz de manter claro a necessidade de utilização 	do stop drill ao furar uma chapa de metal, evitando o desperdício de material e retrabalho.
 	</li>
 </ul>
-<img src="https://github.com/arcursino/IHC/blob/master/animacao.mp4" alt="Animação 1" title="Animação 1" style="max-width:100%;">
+<img src="https://github.com/arcursino/IHC/blob/master/animacao.gif" alt="Animação 1" title="Animação 1" style="max-width:100%;">
 		
 <br>
 Exemplo de passos iniciais com A-Frame:  <br>
@@ -32,7 +32,7 @@ http://jeromeetienne.github.io/slides/artoolkit-aframe/
 
 
 Gerar arquivo .patt:<br>
-https://www.qrcode-monkey.com/
+https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
 
 Modelos 3D: <br>
 https://sketchfab.com
