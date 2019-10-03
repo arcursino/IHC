@@ -17,16 +17,15 @@ Professor Giuliano Bertoti  - https://github.com/giulianobertoti <br>
 A proposta é utilizar o recurso da realidade aumentada no treinamento industrial.<br></h3><br>
 
 <ul>
-	<li> <strong> Problema: <strong>
+	<li> <strong> Problema: </strong>
 	O treinamento dos funcionários geralmente é realizado em uma sala de aula utilizando apresentação em ppt e apostilas.
-	Muitos não se conscientizam sobre a necessida de utilizar as ferramentas necessárias para não haver retrabalho e/ou 	perda de materiais.
+	Muitos não se conscientizam sobre a necessidade  de utilizar as ferramentas necessárias para não haver retrabalho 	  e/ou 	perda de materiais.
 	</li> 	
 </ul>
 <p>
 <img src="https://raw.githubusercontent.com/arcursino/IHC/master/figura1.png" alt="Figura 1 - Uso do Stop Drill" title="Figura 1 - Uso do Stop Drill" style="max-width:100%;">
-	<h3>Obs: A cada erro, o prejuízo é de 1500 reais só para abrir a documentação ou perda da peça.</h3> <br>
+	<h3>Obs: A cada erro, o prejuízo é de 1500 reais só para abrir a documentação, ou perda da peça.</h3> <br>
 </p>
-	
 <ul>		
 	<li><strong> Solução: </strong>
 	Desenvolver uma solução de treinamento, mais dinâmico e interativo, capaz de manter claro a necessidade de utilização 	do stop drill ao furar uma chapa de metal, evitando o desperdício de material e retrabalho.
@@ -57,13 +56,14 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 </ol>
 <ul> 
 	<li> <strong>Referências Bibliográficas </strong></li>
-Site com instruções:<br>
+	
+<br>Site com instruções:<br>
 http://jeromeetienne.github.io/slides/artoolkit-aframe/
-Gerar arquivo .patt e o marcador:<br>
+<br>Gerar arquivo .patt e o marcador:<br>
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
-Modelos 3D: <br>
+<br>Modelos 3D: <br>
 https://sketchfab.com
-Modelos A-frame: <br>
+<br>Modelos A-frame: <br>
 https://aframe.io
 </ul>
 </head>
