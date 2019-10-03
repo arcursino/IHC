@@ -11,7 +11,7 @@ A proposta é utilizar o recurso da realidade aumentada no treinamento industria
 <li> Problema:
 	O treinamento dos funcionários geralmente é realizado em uma sala de aula utilizando apresentação em ppt e apostilas.
 	Muitos não se conscientizam sobre a necessida de utilizar as ferramentas necessárias para não haver retrabalho e/ou perda de materiais.<br>	
-	![Figura 1.](https://raw.githubusercontent.com/arcursino/IHC/master/figura1.png)
+	![Figura 1.] (https://raw.githubusercontent.com/arcursino/IHC/master/figura1.png)
 	
 	
 	** Obs: A cada erro: 1500 reais só para abrir a documentação ou perda da peça. ** <br>
