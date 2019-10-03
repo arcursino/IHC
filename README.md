@@ -10,7 +10,7 @@ Composição do Grupo:
 <li>Caroline Ribeiro - https://github.com/CarolRibeiroM</li>
 <li>Barbara - https://github.com/barbara</li>
 </ul> 
-** Orientador: ** <br>
+<strong> Orientador: </strong> <br>
 Professor Giuliano Bertoti  - https://github.com/giulianobertoti <br>
 
 
@@ -29,19 +29,18 @@ A proposta é utilizar o recurso da realidade aumentada no treinamento industria
 </p>
 	
 <ul>		
-	<li> Solução:
+	<li><strong> Solução: </strong>
 	Desenvolver uma solução de treinamento, mais dinâmico e interativo, capaz de manter claro a necessidade de utilização 	do stop drill ao furar uma chapa de metal, evitando o desperdício de material e retrabalho.
 	</li>
 </ul>
 <p>
-<a target="_blank" rel="noopener noreferrer" href="arcursino/IHC/blob/master/animacao.gif"><img src="arcursino/IHC/blob/master/animacao.gif" alt="" style="max-width:100%;"></a>
-<img src="https://github.com/arcursino/IHC/blob/master/animacao.gif" alt="Animação 1" title="Animação 1" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="/arcursino/IHC/blob/master/animacao.gif"><img src="/arcursino/IHC/blob/master/animacao.gif" alt="" style="max-width:100%;"></a>
 </p>
 <ul>
 	<li> <strong>Como Utilizar: </strong>
 	</li>
 </ul>
-Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão à Internet e então seguir os passo:
+Primeiramente, fora Temer, será necessário possuir um dispositivo com WebCam, com conexão à Internet e então seguir os passo:
 <ol>
 	<li> tenha acesso ao marcadores da furadeira e do stopdrill(imprimir ou acessar de outro dispostivo). Basta clicar
 	<a href="https://github.com/arcursino/IHC/blob/master/pattern-%C3%ADndice.png"> aqui </a>
@@ -54,24 +53,20 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 </ol>
 
 <ul> 
-	<li> Referências Bibliográficas</li>
+	<li> <strong>Referências Bibliográficas </strong></li>
 Site com instruções:<br>
 http://jeromeetienne.github.io/slides/artoolkit-aframe/
-
-
 Gerar arquivo .patt e o marcador:<br>
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
-
 Modelos 3D: <br>
 https://sketchfab.com
-		
-<br>
-<a href="https://aframe.io/" rel="nofollow">A-Frame</a> <br>
-<br>
+Modelos A-frame: <br>
+https://aframe.io
 </ul>
-
+<ul>
+<li><strong>Próximos Passos:</strong></li>
+</ul>
 <ol>
-	<strong>Próximos Passos:</strong>
 	<li> Aprender sobre a biblioteca three.js</li>
 	<li> Converter as imagens da furadeira e do stopdril para .gltf</li>
 	<li> Estudar a API WebGL(JavaScript)</li>
