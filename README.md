@@ -8,7 +8,7 @@
 <ul>
 <li>Ariana Cursino - https://github.com/arcursino</li>
 <li>Caroline Ribeiro - https://github.com/CarolRibeiroM</li>
-<li>Barbara - https://github.com/barbara</li>
+<li>Barbara - https://github.com/barbaraNegosseki</li>
 </ul> 
 <strong> Orientador: </strong> <br>
 Professor Giuliano Bertoti  - https://github.com/giulianobertoti <br>
@@ -50,9 +50,10 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 <li><strong>Próximos Passos:</strong></li>
 </ul>
 <ol>
-	<li> Aprender sobre a biblioteca three.js</li>
+	<li> Adicionar os markers no código</li>
 	<li> Converter as imagens da furadeira e do stopdril para .gltf</li>
 	<li> Estudar a API WebGL(JavaScript)</li>
+	<li> Aprender sobre a biblioteca three.js</li>	
 </ol>
 <br>
 <ul> 
