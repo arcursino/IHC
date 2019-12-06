@@ -6,7 +6,8 @@
 
 <strong> Composição do Grupo: </strong>
 <ul>
-<li>Ariana Cursino - https://github.com/arcursino</li>
+<li>Ariana Cursino - https://github.com/arcursino</li><br>
+<li>Email: arcursino@gmail.com.br</li><br>
 <li>Caroline Ribeiro - https://github.com/CarolRibeiroM</li>
 <li>Barbara - https://github.com/barbaraNegosseki</li>
 </ul> 
@@ -38,25 +39,16 @@ A proposta é utilizar o recurso da realidade aumentada no treinamento industria
 Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão à Internet e então seguir os passo:
 <ol>
 	<li> tenha acesso ao marcadores da furadeira e do stopdrill(imprimir ou acessar de outro dispostivo). Basta clicar
-	<a href="https://github.com/arcursino/IHC/blob/master/pattern-%C3%ADndice.png"> aqui </a>
+	<a href="https://github.com/arcursino/IHC/blob/master/marcadores/pattern-furadeira.png"> Aqui </a>
 	e
-	<a href="https://github.com/arcursino/IHC/blob/master/pattern-stopdrill.png"> aqui </a>
+	<a href="https://upload.wikimedia.org/wikipedia/commons/4/48/Hiro_marker_ARjs.png"> aqui </a>
 	</li>
 	<li>Para ter acesso ao protótipo do projeto, acesse: </li>
-	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">aqui</a>
+	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">No Codepen</a>
+	<a href="https://arcursino-ihc.glitch.me/" rel="nofollow">No Glitch</a>	
 	<li> Posicione os dois marcadores em frente a câmera de seu dispositivo</li>
 </ol>
-<ul>
-<li><strong>Próximos Passos:</strong></li>
-</ul>
-<ol>
-	<li> Adicionar os markers no código</li>
-	<li> Converter as imagens da furadeira e do stopdril para .gltf</li>
-	<li> Estudar a API WebGL(JavaScript)</li>
-	<li> Aprender sobre a biblioteca three.js</li>	
-</ol>
-<br>
-<ul> 
+
 	<li> <strong>Referências Bibliográficas </strong></li>
 	
 <br>Site com instruções:<br>
