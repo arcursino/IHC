@@ -6,8 +6,8 @@
 
 <strong> Composição do Grupo: </strong>
 <ul>
-<li>Ariana Cursino - https://github.com/arcursino</li><br>
-<li>Email: arcursino@gmail.com.br</li><br>
+<li>Ariana Cursino - https://github.com/arcursino</li>
+<li>Email: arcursino@gmail.com</li><br>
 <li>Caroline Ribeiro - https://github.com/CarolRibeiroM</li>
 <li>Barbara - https://github.com/barbaraNegosseki</li>
 </ul> 
