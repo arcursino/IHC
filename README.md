@@ -44,7 +44,7 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 	<a href="https://upload.wikimedia.org/wikipedia/commons/4/48/Hiro_marker_ARjs.png"> aqui </a>
 	</li>
 	<li>Para ter acesso ao protótipo do projeto, acesse: </li>
-	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">No Codepen</a>
+	<a href="https://codepen.io/CarolRibeiro/pen/GRKWopj" rel="nofollow">No Codepen</a><br>
 	<a href="https://arcursino-ihc.glitch.me/" rel="nofollow">No Glitch</a>	
 	<li> Posicione os dois marcadores em frente a câmera de seu dispositivo</li>
 </ol>
