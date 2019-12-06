@@ -1,28 +1,40 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Exemplo de Projeto AR / VR</title>
-    <script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
-    <script src="https://rawgit.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
-    <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
-</head>
-<body style='margin : 0px; overflow: hidden;'>
-    <a-scene embedded arjs="sourceType: webcam; trackingMethod: best; debugUIEnabled: false;" antialias="true">
-			
-			<a-anchor hit-testing-enabled="true">
-				
-				<a-gltf-model src="https://raw.githubusercontent.com/giulianobertoti/AugmentedReality/master/biology/scene.gltf" 
-							position="0 0 0"
-							rotation="180 90 270"
-							scale="1 1 1"
-							animation-mixer="loop:repeat">
-				</a-gltf-model>
-							
-			</a-anchor>
-			<a-camera-static/>
-		</a-scene>
+<!doctype HTML>
+<html>
+  <script src="https://aframe.io/releases/0.8.2/aframe.min.js">   </script>
+  <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.8/aframe/build/aframe-ar.js"></script>
+  <body style='margin : 0px; overflow: hidden;'>
+    <a-scene embedded arjs>
+      
+   <!-- Furadeira -->
+    <a-assets>
+       <a-asset-item id="furadeira" src="https://raw.githubusercontent.com/arcursino/IHC/master/furadeira_scene/scene.gltf"
+        scale="1 1 1"
+        position = "-0.5 0 0"
+        rotation="90 -120 50">
+         <a-animation attribute="position"
+                    dur="10000"
+                    from="-2 0 0"
+                    to="0.9 0 0"
+                    repeat="indefinite">
+                </a-animation>
+      </a-asset-item>
+    </a-assets>
+    <a-marker id="furadeira-marker" preset="pattern" type="pattern" url="https://raw.githubusercontent.com/arcursino/IHC/master/marcadores/pattern-furadeira.patt" registerevents>
+      <a-entity
+        id="furadeira-entity"
+        gltf-model="#furadeira"
+        rotation="0 90 -90"
+        animation="property: position; from: 0 0 0; to: 2 0 2; dur: 3400; loop: 90"
+      
+      </a-entity>
+      
+    </a-marker>
+      
+       <a-marker preset="hiro">
+        <a-box position='0 -2 -2' material='color: gray;'></a-box> </a-marker>
+      
+ 
+  </a-scene>
 </body>
+
 </html>
