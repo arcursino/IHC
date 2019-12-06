@@ -48,9 +48,9 @@ Primeiramente, será necessário possuir um dispositivo com WebCam, com conexão
 	<a href="https://arcursino-ihc.glitch.me/" rel="nofollow">No Glitch</a>	
 	<li> Posicione os dois marcadores em frente a câmera de seu dispositivo</li>
 </ol>
-
+<ol>
 	<li> <strong>Referências Bibliográficas </strong></li>
-	
+</ol>	
 <br>Site com instruções:<br>
 http://jeromeetienne.github.io/slides/artoolkit-aframe/
 <br>Gerar arquivo .patt e o marcador:<br>
